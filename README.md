@@ -4,7 +4,7 @@
 
 A Electronic Arts é uma loja dos sonhos para os entusiastas de jogos, oferecendo uma variedade de consoles, PCs, acessórios e jogos de todos os tipos!
 
-Acesse o site: https://eletronic-arts.netlify.app/
+#### Acesse o site: *https://eletronic-arts.netlify.app/*
 
 ## 📄 Seções
 
