@@ -1,6 +1,6 @@
 # Eletronic Arts
 
-##Sobre o projeto
+## Sobre o projeto
 
 A Electronic Arts é a loja dos sonhos para os entusiastas de jogos, oferecendo uma variedade de consoles, PCs, acessórios e jogos de todos os tipos!
 
